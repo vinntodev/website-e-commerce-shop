@@ -4,18 +4,30 @@
 
 Aplikasi web E-commerce Shop dengan fitur toko online, keranjang belanja, wishlist, checkout, pembayaran Midtrans, dan panel admin untuk mengelola produk, kategori, brand, kupon, pesanan, serta slide dan kontak.
 
+---
+
 ## Technology Used
 
-| Kategori        | Teknologi |
-| --------------- | --------- |
-| **Backend**     | [Laravel 11](https://laravel.com/), PHP 8.2+ |
-| **Database**    | MySQL / MariaDB / PostgreSQL |
-| **Frontend**    | [Laravel UI](https://github.com/laravel/ui), [Bootstrap 5](https://getbootstrap.com/), [Vite](https://vitejs.dev/) |
-| **Pembayaran**  | [Midtrans](https://midtrans.com/) |
-| **PDF**         | [Laravel DomPDF](https://github.com/barryvdh/laravel-dompdf) |
-| **Gambar**      | [Intervention Image](https://image.intervention.io/) |
+| Kategori     | Teknologi |
+| ------------ | --------- |
+| **Backend**  | [Laravel 11](https://laravel.com/), PHP 8.2+ |
+| **Database** | MySQL / MariaDB / PostgreSQL |
+| **Frontend** | [Laravel UI](https://github.com/laravel/ui), [Bootstrap 5](https://getbootstrap.com/), [Vite](https://vitejs.dev/) |
+| **Pembayaran** | [Midtrans](https://midtrans.com/) |
+| **PDF**      | [Laravel DomPDF](https://github.com/barryvdh/laravel-dompdf) |
+| **Gambar**   | [Intervention Image](https://image.intervention.io/) |
+
+---
 
 ## Fitur & Preview
+
+### Auth (Login & Register)
+
+| Login | Register |
+| ----- | -------- |
+| ![Login](documents/screenshot/auth/login.jpeg) | ![Register](documents/screenshot/auth/register.jpeg) |
+
+---
 
 ### User
 
@@ -23,8 +35,8 @@ Aplikasi web E-commerce Shop dengan fitur toko online, keranjang belanja, wishli
 | --------- | ------------------ |
 | ![Home Page](documents/screenshot/user/home-page.png) | ![Home Mobile](documents/screenshot/user/mobile.png) |
 
-| Shop | Product Details  / Keranjang |
-| ---- | ------------------------- |
+| Shop | Keranjang |
+| ---- | --------- |
 | ![Shop](documents/screenshot/user/shop.jpeg) | ![Cart](documents/screenshot/user/cart.jpeg) |
 
 | Checkout / Payment | Konfirmasi Transaksi |
@@ -42,6 +54,8 @@ Aplikasi web E-commerce Shop dengan fitur toko online, keranjang belanja, wishli
 | Laporan PDF Transaksi |
 | --------------------- |
 | ![PDF User](documents/screenshot/user/pdf-user.png) |
+
+---
 
 ### Admin
 
