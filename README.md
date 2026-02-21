@@ -14,7 +14,6 @@ Aplikasi web E-commerce Shop dengan fitur toko online, keranjang belanja, wishli
 | **Pembayaran**  | [Midtrans](https://midtrans.com/) |
 | **PDF**         | [Laravel DomPDF](https://github.com/barryvdh/laravel-dompdf) |
 | **Gambar**      | [Intervention Image](https://image.intervention.io/) |
-| **Keranjang**   | [Surfsidemedia Shopping Cart](https://github.com/surfsidemedia/shoppingcart) |
 
 ## Fitur & Preview
 
